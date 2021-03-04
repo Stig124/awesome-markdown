@@ -182,7 +182,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
 - [termd](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Open-Source way to create flowcharts using a really simple MD-based syntax
 
 ### Presentations
 
